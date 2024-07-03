@@ -1,8 +1,8 @@
-[![MasterHead](https://www.symbiolabs.gr/?lang=en)]
+[![MasterHead](https://static.wixstatic.com/media/6c3893_60b02f5779ab4a239a715f41ba6a007e~mv2_d_5000_1447_s_2.gif)]
 
 <h1 align="center">Hi 👋, I'm Thulasi</h1>
 <h3 align="center">Passionate About Data and Analytics</h3>
-<(img align="right" alt="Coding" width="400" src="https://in.pinterest.com/pin/276971445820583079/")>
+<img align="right" alt="Data analyst" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRIhF0Onqw84_BcGghjg0pJTiTZjwzmXzCDQ&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsthulasi&label=Profile%20views&color=0e75b6&style=flat" alt="itsthulasi" /> </p>
 
